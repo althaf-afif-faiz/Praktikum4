@@ -52,8 +52,21 @@ Setelah loop while selesai, program memanggil function tampilkan_data() untuk me
 
 Berikut Flowchart dari Program List
 
-![Flowchart Project4](https://github.com/user-attachments/assets/4b574494-df4d-440a-8dc4-724f11817bbf)
+![flowchart project4](https://github.com/user-attachments/assets/7efb4e30-a78b-4e26-9346-b7f81f78cc72)
 
+
+# Penjelasan singkat algoritma dari flowchart
+flowchart tersebut adalah algoritma untuk input data mahasiswa, menghitung nilai akhir, dan menampilkan data mahasiswa.
+
+Pertama, input nama mahasiswa.
+
+Kedua, input nilai tugas, uts, dan uas.
+
+Ketiga, hitung nilai akhir berdasarkan bobot nilai tugas, uts, dan uas.
+
+Keempat, simpan data mahasiswa.
+
+Terakhir, tanyakan apakah akan menambah data mahasiswa lagi. Jika ya, ulangi langkah input data. Jika tidak, tampilkan data mahasiswa yang telah diinput.
 
 
 
